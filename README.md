@@ -20,6 +20,10 @@ Repository for the paper
 > Sun, Di Niu \
 > NeurIPS 2023 Poster Presentation
 
+<p align="center">
+  <img src="autogo.png" alt="High-level illustration">
+</p>
+
 This repository provides access to, and instructions to perform the following:
 - The AutoGO search algorithm, our segment database, with the ability to train CIFAR-10 models
 - The scripts and files necessary to generate the segment database
