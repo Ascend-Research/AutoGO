@@ -14,7 +14,7 @@
 <p/>
 
 Repository for the paper
-> [AutoGO: Automated Computation Graph Optimization for Neural Network Evolution](hhttps://openreview.net/login?redirect=%2Fforum%3Fid%3DlDI3ZuyzM9) \
+> [AutoGO: Automated Computation Graph Optimization for Neural Network Evolution](https://openreview.net/login?redirect=%2Fforum%3Fid%3DlDI3ZuyzM9) \
 > Mohammad Salameh, Keith G Mills, Negar Hassanpour, Fred X. Han, Shuting Zhang, Wei Lu, Shangling Jui, Chunhua Zhou, 
 > Fengyu 
 > Sun, Di Niu \
