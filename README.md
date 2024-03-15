@@ -157,3 +157,18 @@ The same rules apply here for logging, and model checkpoints, as they do for the
 ## Examples of Found Architectures, Loading Architectures Outside of this repo/for HPE/Segmentation and Misc. Information
 Please see demos in `model_demo.ipynb` and `model_src/comp_graph/transfer_demo.ipynb` as well as the `/architectures/` folder.
 
+### Bibtex 
+If you find our framework useful, we kindly ask that you cite our paper:
+```
+@inproceedings{salameh2024autogo,
+ author = {Salameh, Mohammad and Mills, Keith G. and Hassanpour, Negar and Han, Fred and Zhang, Shuting and Lu, Wei and Jui, Shangling and Zhou, Chunhua and Sun, Fengyu and Niu, Di},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {A. Oh and T. Neumann and A. Globerson and K. Saenko and M. Hardt and S. Levine},
+ pages = {74455--74477},
+ publisher = {Curran Associates, Inc.},
+ title = {AutoGO: Automated Computation Graph Optimization for Neural Network Evolution},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2023/file/eb5d9195b201ec7ba66c8e20b396d349-Paper-Conference.pdf},
+ volume = {36},
+ year = {2023}
+}
+```
