@@ -18,7 +18,9 @@ Repository for the paper
 > Mohammad Salameh, Keith G Mills, Negar Hassanpour, Fred X. Han, Shuting Zhang, Wei Lu, Shangling Jui, Chunhua Zhou, 
 > Fengyu 
 > Sun, Di Niu \
-> NeurIPS 2023 Poster Presentation
+> NeurIPS 2023
+
+[[Poster](https://kgmills.github.io/assets/posters/AutoGO_NeurIPS23_poster.pdf)][[Video](https://nips.cc/virtual/2023/poster/70604)][[Slides](https://kgmills.github.io/assets/slides/AutoGO_NeurIPS23_slides.pdf)]
 
 <p align="center">
   <img src="autogo.png" alt="High-level illustration">
