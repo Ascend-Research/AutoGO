@@ -56,7 +56,7 @@ Our conda environment for running AutoGO consists of the following (primary) Pyt
 ```
 
 ### Getting the Necessary Data Files
-Download the CG cache files from the public [Google Drive folder](https://drive.google.com/drive/folders/1nTj8g6XbIU_PYvOBaXjylBHmgo-3okra) provided by [GENNAPE](https://github.com/Ascend-Research/GENNAPE).
+Download the CG cache files from the public ~~[Google Drive folder](https://drive.google.com/drive/folders/1nTj8g6XbIU_PYvOBaXjylBHmgo-3okra)~~ [HuggingFace repo](https://huggingface.co/datasets/kgmills/GENNAPE) provided by [GENNAPE](https://github.com/Ascend-Research/GENNAPE).
 
 Place the `.json` files for HiAML, Inception and Two-Path into `/data/`.
 Also place the `.pkl` files for NAS-Bench-101 (`nb101`) and NAS-Bench-201 on CIFAR-10 (`nb201c10`) into `/data/`.
@@ -77,7 +77,7 @@ Both of these experiments require several auxiliary files in order to execute (e
 
 ### Search Algorithm Preliminary Files
 The AutoGO search algorithm requires the following files to run:
-- **Graph Encoder** and **SentencePiece Tokenizer**: Provided at `/cache_sentence_piece/h+i+n15+n2+t/h+i+n15+n2+t_encoder_shp.pkl` and `/cache_sentence_piece/h+i+n15+n2+t/models/h+i+n15+n2+t_vsize2000_bpe_shp.model`, respectively. Both can be created from scratch (files must be downloaded from Google Drive and placed in `/data/` first) by running 
+- **Graph Encoder** and **SentencePiece Tokenizer**: Provided at `/cache_sentence_piece/h+i+n15+n2+t/h+i+n15+n2+t_encoder_shp.pkl` and `/cache_sentence_piece/h+i+n15+n2+t/models/h+i+n15+n2+t_vsize2000_bpe_shp.model`, respectively. Both can be created from scratch (files must be downloaded from ~~Google Drive~~ HuggingFace and placed in `/data/` first) by running 
 ```
 python gen_vocab.py
 ```
